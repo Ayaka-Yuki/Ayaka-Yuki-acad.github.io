@@ -55,4 +55,4 @@ My name is Zheng Wenhao, a master student at School of Computing in National Uni
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.05 - 2025.09*, [Lorem](Algorithm Engineer @ Shield Lab Huawei Singapore), Singapore.
+- *2025.05 - 2025.09*, Algorithm Engineer @ Shield Lab Huawei Singapore, Singapore.
